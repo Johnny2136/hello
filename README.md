@@ -1,2 +1,0 @@
-# hello
-golang repo
